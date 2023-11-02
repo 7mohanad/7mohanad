@@ -32,15 +32,12 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
-<img align="left" height="150" src="https://th.bing.com/th/id/R.8d621f66f551b6a39072473d52280ff0?rik=pxe6U%2fxnjrV9eQ&pid=ImgRaw&r=0"  />
 
 ###
 
 <br clear="both">
 
-<img src="https://github.com/7mohanad/7mohanad/assets/107255649/8a90813e-3cc2-4ba0-a943-f5050bbb727a)"/>
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif"/>
 
 
 ###
