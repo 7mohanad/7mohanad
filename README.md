@@ -1,15 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! I'm Mohanad</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7mohanad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7mohanad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<p align="left">I'm a Front End Web developer who is passionate about making error- free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal- oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. I enjoy working with ReactJS, JavaScript as well as PHP and NodeJS.<br>Skills: REACT/JS/HTML/CSS<br>I'm currently working on this page.</p>
+<h6 align="left">I'm a Front End Web developer who is passionate about making error- free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal- oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. I enjoy working with ReactJS, JavaScript as well as PHP and NodeJS.<br>Skills: REACT/JS/HTML/CSS<br>I'm currently working on this page.</h6>
 
 ###
 
@@ -46,6 +39,24 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/7mohanad/7mohanad/output/snake.svg" alt="Snake animation" />
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 ###
