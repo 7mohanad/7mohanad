@@ -1,11 +1,7 @@
-<h2 align="left">Hi 👋! I'm Mohanad</h2>
-<h4 align="left">Web Developer</h4>
+<h2>Hi 👋! I'm Mohanad</h2>
+<h4>Web Developer</h4>
 
-###
-
-<h6 align="left">I'm a Front End Web developer who is passionate about making error- free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal- oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. I enjoy working with ReactJS, JavaScript as well as PHP and NodeJS.<br>Skills: REACT/JS/HTML/CSS<br>I'm currently working on this page.</h6>
-
-###
+<h6>I'm a Front End Web developer who is passionate about making error- free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal- oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. I enjoy working with ReactJS, JavaScript as well as PHP and NodeJS.<br>Skills: REACT/JS/HTML/CSS<br>I'm currently working on this page.</h6>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -23,21 +19,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
-###
-
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.youtube.com/@mohanaddev946/videos">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+  <a href="mailto:mohaned7elhadi@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/your-profile">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
-
-###
 
 <br clear="both">
 
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif"/>
 
-
-###
