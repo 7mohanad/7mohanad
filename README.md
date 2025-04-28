@@ -18,7 +18,7 @@ I'm a Front End Web developer who is passionate about making error- free website
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
-<div align="left">
+<!--div align="left">
   <a href="https://www.youtube.com/@mohanaddev946/videos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
@@ -28,7 +28,7 @@ I'm a Front End Web developer who is passionate about making error- free website
   <a href="https://www.linkedin.com/your-profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-</div>
+</div-->
 
 
 <br clear="both">
